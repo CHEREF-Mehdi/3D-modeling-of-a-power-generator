@@ -17,7 +17,7 @@ We modeled the 3d power-generator using several objects and multiple combination
 
 3- Sphere : we used the predefined function glutSolidSphere()
 
-# user Interaction
+# User Interaction
 
 The user can interact in two different ways :
  
